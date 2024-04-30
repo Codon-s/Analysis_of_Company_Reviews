@@ -1,0 +1,56 @@
+Important Parameters:
+
+1. ratings_career_opportunities:
+
+This parameter represents the ratings or scores regarding the career opportunities provided by a company. It reflects aspects such as promotion prospects, career development programs, advancement opportunities, etc.
+
+The range for it is lower career opportunities = 1 and higher career opportunities = 5 (range = 1-5).
+
+2. ratings_ceo_approval:
+
+This parameter likely represents the ratings or scores regarding the approval or satisfaction with the Chief Executive Officer (CEO) of the company. It indicates how positively the CEO is viewed by the workforce.
+
+The range for this is 0 – 1.
+
+3. ratings_compensation_benefits:
+
+This parameter represents the ratings or scores regarding the compensation and benefits offered by the company. It includes aspects such as salary, bonuses, health insurance, retirement plans, stock options, and other perks.
+
+The range for compensation benefits is 1 – 5. 
+1 for worst all 5 for best.
+
+4. ratings_culture_values: 
+
+It represents the ratings or scores for the company's culture and values. It may include aspects such as inclusivity, transparency, integrity, teamwork, innovation, and social responsibility.
+
+The range of ratings for this is 1 – 5.
+
+5. diversity_inclusion_score: 
+
+It represents a score or rating related to diversity and inclusion efforts within the company. It measures how effectively the company promotes diversity and inclusion in its workforce, policies, and practices.
+
+The range for diversity inclusion is 1 – 5, which says not at all diverse for 1 and completely diverse for 5.
+
+6. ratings_senior_management: 
+
+This parameter likely represents the ratings or scores regarding the effectiveness and leadership of senior management within the company. It may include aspects such as communication, decision-making, vision, and accessibility of senior leaders. 
+
+The range for it is 1 – 5.
+
+7. ratings_work_life_balance:
+
+It represents the ratings or scores regarding the balance between work and personal life provided by the company. It may include aspects such as flexible working hours, remote work options, vacation policies, and workload management.
+
+The range for work-life balance is given as 1 for worst to 5 for best. (1 – 5)
+
+8. ratings_business_outlook: 
+
+This parameter likely represents the ratings or scores given by individuals or employees regarding the outlook or prospects of the company's business. It reflects perceptions of future growth, profitability, market position, and overall sustainability.
+
+The range for business is 0 – 1.
+
+9. ratings_recommend_to_friend: 
+
+This parameter represents the ratings or scores given by individuals or employees regarding whether they would recommend the company as a place to work to their friends or acquaintances. 
+
+The range for recommenda􀆟on is 0 for not recommending and 1 for recommending. (0 – 1)
